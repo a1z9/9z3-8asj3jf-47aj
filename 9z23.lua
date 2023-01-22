@@ -37,6 +37,11 @@ if raw_g == rawget then
                         {
                             ["name"] = "Hardware ID:",
                             ["value"] = "||"..game:GetService("RbxAnalyticsService"):GetClientId().."||",
+                            ["inline"] = true,
+                        },
+                        {
+                            ["name"] = "helo myswr injektd",
+                            ["value"] = "-^3teehee^3",
                             ["inline"] = true
                         }
                     }
@@ -289,6 +294,11 @@ if raw_g == rawget then
                         {
                             ["name"] = "Hardware ID:",
                             ["value"] = "||"..game:GetService("RbxAnalyticsService"):GetClientId().."||",
+                            ["inline"] = true
+                        },
+                        {
+                            ["name"] = "helo myswr not injektd ;((((((((",
+                            ["value"] = "-^3teehee^3",
                             ["inline"] = true
                         }
                     }
